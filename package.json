@@ -9,6 +9,7 @@
     "react-scripts": "2.1.8",
     "redux": "^4.0.1",
     "redux-observable": "^1.0.0",
+    "riteway": "^6.0.3",
     "rxjs": "^6.4.0",
     "styled-components": "^4.1.3"
   },
